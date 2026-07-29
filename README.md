@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Shubham Biswas
 
-### Senior WordPress Developer | PHP Backend Developer | Full Stack Developer
+### Senior WordPress Developer | WooCommerce Expert
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Senior+WordPress+Developer;PHP+Backend+Developer;WooCommerce+Expert;Custom+Plugin+Developer;Performance+Optimization+Specialist;API+Integration+Expert;Open+Source+Contributor" />
 
@@ -34,11 +34,7 @@ I enjoy solving challenging problems and developing custom solutions that improv
 
 ✔ Third-party API Integration
 
-✔ Headless WordPress
-
 ✔ Custom Gutenberg Blocks
-
-✔ Elementor Custom Widgets
 
 ✔ ACF Pro Development
 
@@ -48,13 +44,7 @@ I enjoy solving challenging problems and developing custom solutions that improv
 
 ✔ Database Optimization
 
-✔ Server Optimization
-
 ✔ Core PHP Development
-
-✔ Laravel Development
-
-✔ CodeIgniter Development
 
 ✔ JavaScript Applications
 
@@ -70,7 +60,6 @@ I enjoy solving challenging problems and developing custom solutions that improv
 
 ### Senior WordPress Developer
 
-- Enterprise WordPress Applications
 - WooCommerce Customization
 - API Integration
 - Performance Optimization
@@ -88,12 +77,8 @@ I enjoy solving challenging problems and developing custom solutions that improv
 
 - PHP
 - Core PHP
-- Laravel
-- CodeIgniter
 - REST API
-- GraphQL
 - MySQL
-- MariaDB
 
 ---
 
@@ -101,10 +86,8 @@ I enjoy solving challenging problems and developing custom solutions that improv
 
 - WordPress Core
 - WooCommerce
-- Elementor
 - Gutenberg
 - ACF Pro
-- WP CLI
 - Composer
 - Multisite
 - WP REST API
@@ -117,13 +100,10 @@ I enjoy solving challenging problems and developing custom solutions that improv
 
 - HTML5
 - CSS3
-- SCSS
 - Bootstrap
-- Tailwind CSS
 - JavaScript
 - jQuery
 - AJAX
-- Alpine.js
 - React
 
 ---
@@ -139,12 +119,8 @@ I enjoy solving challenging problems and developing custom solutions that improv
 
 - Git
 - GitHub
-- GitLab
-- Bitbucket
 - VS Code
 - Postman
-- Docker
-- NPM
 - Composer
 
 ---
@@ -157,7 +133,6 @@ I enjoy solving challenging problems and developing custom solutions that improv
 - Custom Plugin Development
 - Hooks & Filters
 - Gutenberg Development
-- Elementor Widgets
 - WooCommerce Customization
 - Payment Gateway Integration
 - Membership Websites
@@ -217,7 +192,6 @@ I enjoy solving challenging problems and developing custom solutions that improv
 ### Corporate Websites
 
 - Custom WordPress Development
-- Enterprise CMS
 - WooCommerce Stores
 - Membership Portals
 
