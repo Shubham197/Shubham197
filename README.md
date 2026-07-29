@@ -1,300 +1,244 @@
 <div align="center">
 
-# Hi 👋, I'm Shubham Biswas
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=200&section=header&text=Shubham%20Biswas&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-### Senior WordPress Developer | WooCommerce Expert
+<h1>
+👋 Hi, I'm Shubham Biswas
+</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Senior+WordPress+Developer;PHP+Backend+Developer;WooCommerce+Expert;Custom+Plugin+Developer;Performance+Optimization+Specialist;API+Integration+Expert;Open+Source+Contributor" />
+<h3>
+Senior WordPress Developer | PHP Backend Engineer | WooCommerce Specialist
+</h3>
+
+<p>
+Building scalable WordPress solutions, enterprise websites, custom plugins, 
+WooCommerce platforms and high-performance backend systems.
+</p>
+
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Senior+WordPress+Developer;PHP+Backend+Engineer;WooCommerce+Expert;Custom+Plugin+Architect;API+Integration+Specialist;Performance+Optimization+Engineer;Open+Source+Contributor" />
 
 </div>
+
 
 ---
 
 # 👨‍💻 About Me
 
-I am a **Senior WordPress & PHP Developer** with **8.5+ years of professional experience** building scalable, secure, and high-performance web applications.
 
-I specialize in custom WordPress development, enterprise websites, WooCommerce solutions, API integrations, performance optimization, and complex backend architectures.
+I am a **Senior WordPress Developer & PHP Backend Engineer** with **8.5+ years of professional experience** specializing in building secure, scalable and performance-driven web applications.
 
-I enjoy solving challenging problems and developing custom solutions that improve business productivity and user experience.
+My expertise includes:
 
----
-
-# 🚀 What I Do
-
-✔ Custom WordPress Theme Development
-
-✔ Custom Plugin Development
-
-✔ WooCommerce Development
-
-✔ Payment Gateway Integration
-
-✔ REST API Development
-
-✔ Third-party API Integration
-
-✔ Custom Gutenberg Blocks
-
-✔ ACF Pro Development
-
-✔ Performance Optimization
-
-✔ Website Security
-
-✔ Database Optimization
-
-✔ Core PHP Development
-
-✔ JavaScript Applications
-
-✔ Website Migration
-
-✔ Bug Fixing
-
-✔ Website Maintenance
-
----
-
-# 💼 Professional Experience
-
-### Senior WordPress Developer
-
-- WooCommerce Customization
-- API Integration
-- Performance Optimization
-- Server-side Development
+- Enterprise WordPress Development
 - Custom Plugin Architecture
-- Advanced Debugging
-- Security Hardening
-- Large Scale Website Maintenance
+- WooCommerce Development
+- API Integrations
+- Backend Engineering
+- Database Optimization
+- Performance Optimization
+- Website Security
+- Large-scale Website Maintenance
+
+
+I enjoy transforming complex business requirements into clean, maintainable and scalable digital solutions.
+
 
 ---
 
-# 🛠 Tech Stack
+# 🚀 Professional Highlights
 
-## Backend
 
-- PHP
-- Core PHP
-- REST API
-- MySQL
+<div align="center">
+
+| Experience | Expertise | Focus |
+|---|---|---|
+| 8.5+ Years | WordPress Development | Enterprise Solutions |
+| 100+ Projects | WooCommerce | Custom Ecommerce |
+| Custom Plugins | PHP Backend | API Architecture |
+| Performance Tuning | Security | Scalable Systems |
+
+</div>
+
 
 ---
 
-## WordPress
+# 🛠 Technical Skills
 
-- WordPress Core
-- WooCommerce
-- Gutenberg
-- ACF Pro
-- Composer
-- Multisite
+
+## WordPress Ecosystem
+
+
+![WordPress](https://img.shields.io/badge/WordPress-Expert-21759B?style=for-the-badge&logo=wordpress)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-Expert-96588A?style=for-the-badge&logo=woocommerce)
+![Gutenberg](https://img.shields.io/badge/Gutenberg-Development-blue?style=for-the-badge)
+![ACF](https://img.shields.io/badge/ACF_Pro-Development-green?style=for-the-badge)
+
+
+
+**Skills**
+
+- Custom WordPress Themes
+- Custom WordPress Plugins
+- Gutenberg Blocks
+- Elementor Custom Widgets
+- WooCommerce Customization
+- Payment Gateway Development
+- Membership Platforms
+- LMS Development
+- WordPress Multisite
 - WP REST API
-- Custom Plugin
-- Custom Theme
+- WP CLI
+
 
 ---
 
-## Frontend
+# 💻 Backend Development
+
+
+![PHP](https://img.shields.io/badge/PHP-Advanced-777BB4?style=for-the-badge&logo=php)
+![MySQL](https://img.shields.io/badge/MySQL-Database-orange?style=for-the-badge&logo=mysql)
+
+
+**Backend Expertise**
+
+- Core PHP
+- Object Oriented PHP
+- MVC Architecture
+- REST API Development
+- JWT Authentication
+- OAuth Integration
+- Database Architecture
+- Cron Jobs
+- Queue Processing
+- Server Side Optimization
+
+
+---
+
+# 🎨 Frontend Development
+
+
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+
 
 - HTML5
 - CSS3
 - Bootstrap
-- JavaScript
+- Tailwind CSS
+- JavaScript ES6+
 - jQuery
 - AJAX
-- React
+- React Basics
+
 
 ---
 
-## Database
+# ⚡ Performance Engineering
 
-- MySQL
-- MariaDB
 
----
+I focus on building fast and optimized websites:
 
-## Tools
 
-- Git
-- GitHub
-- VS Code
-- Postman
-- Composer
+✅ Core Web Vitals Optimization
 
----
+✅ Database Query Optimization
 
-# ⚙ Areas of Expertise
+✅ Redis Object Cache
 
-### WordPress
+✅ CDN Implementation
 
-- Custom Theme Development
-- Custom Plugin Development
-- Hooks & Filters
-- Gutenberg Development
-- WooCommerce Customization
-- Payment Gateway Integration
-- Membership Websites
-- LMS Development
-- Multisite
+✅ Lazy Loading
+
+✅ Asset Optimization
+
+✅ Image Compression
+
+✅ Server Optimization
+
+✅ Caching Strategy
+
+
 
 ---
 
-### Backend
+# 🔐 WordPress Security Expertise
 
-- Object Oriented PHP
-- MVC Architecture
-- API Development
-- JWT Authentication
-- OAuth
-- Session Management
-- Database Design
-- Queue Systems
-- Cron Jobs
 
----
+Security practices I implement:
 
-### Performance Optimization
 
-- Core Web Vitals
-- Lazy Loading
-- Redis Cache
-- Object Cache
-- CDN
-- Image Optimization
-- Query Optimization
-- Database Optimization
+🔒 Nonce Verification
 
----
+🔒 Data Sanitization
 
-### Security
+🔒 Data Validation
 
-- Nonce Verification
-- Data Sanitization
-- Data Validation
-- SQL Injection Prevention
-- XSS Protection
-- CSRF Protection
-- Secure Authentication
+🔒 SQL Injection Prevention
+
+🔒 XSS Protection
+
+🔒 CSRF Protection
+
+🔒 Secure Authentication
+
+🔒 Role & Capability Management
+
+
 
 ---
 
-# 🌍 Projects
+# 🌍 Featured Projects
 
-### Charity Platforms
+
+## Charity & Non-Profit Platforms
+
 
 - Human Concern USA
 - Hijrah Foundation
 - Rise Relief
 - Step Up Mobility
 
-### Corporate Websites
 
-- Custom WordPress Development
+## Ecommerce Platforms
+
+
 - WooCommerce Stores
-- Membership Portals
+- Custom Checkout Solutions
+- Payment Integrations
+- Product Management Systems
 
-### API Integrations
+
+## API Integration Projects
+
 
 - Payment Gateways
-- CRM Integration
+- CRM Systems
 - Marketing Platforms
-- Third-party Services
+- Third Party APIs
+
 
 ---
 
-# 📊 GitHub Statistics
+# 🧩 Development Workflow
 
-<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shubham197&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham197&theme=tokyonight"/>
-
-</p>
-
----
-
-# 💻 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham197&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubham197&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Shubham197&theme=tokyonight&row=2&column=4"/>
-
-</p>
-
----
-
-# 📚 Currently Learning
-
-- Advanced Laravel
-- Scalable System Design
-- Cloud Infrastructure
-- Docker
-- Kubernetes
-- CI/CD
-- Microservices
-- AI Integration
-- Headless CMS
-
----
-
-# 🎯 Career Goals
-
-- Build scalable enterprise applications
-- Contribute to Open Source
-- Master Cloud Architecture
-- Learn Kubernetes
-- Build SaaS Products
-- Improve System Design Skills
-- Become a WordPress Architect
-
----
-
-# 🤝 Let's Connect
-
-- 💼 LinkedIn
-- 🌐 Portfolio
-- 📧 Email
-- 💻 GitHub
-
----
-
-# 💡 Fun Facts
-
-- ☕ Coffee + Code = Productivity
-- 🚀 Love solving backend challenges
-- 📚 Always learning new technologies
-- ❤️ Passionate about clean code
-- 🌍 Open Source Enthusiast
-
----
-
-<div align="center">
-
-### ⭐ If you like my work, consider giving a star to my repositories!
-
-"Code. Learn. Build. Repeat."
-
-</div>
+```text
+Requirement Analysis
+        ↓
+Architecture Planning
+        ↓
+Database Design
+        ↓
+Backend Development
+        ↓
+API Integration
+        ↓
+Security Implementation
+        ↓
+Performance Optimization
+        ↓
+Deployment & Maintenance
